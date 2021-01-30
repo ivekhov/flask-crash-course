@@ -1,2 +1,5 @@
 venv/
 .idea
+templates/.DS_Store
+__pycahe__/
+../.DS_Store
